@@ -35,8 +35,6 @@ If you would like to join the community, please request an invite to our Discord
 ---
 
 ## 📦 Getting Started
-Download, unzip and open RapidStackBuilder.fmp12 ( account name and password of **admin** )
-
 *A video guide is coming soon.*
 
 ---
